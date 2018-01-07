@@ -1,11 +1,4 @@
-.row {
-  font-size: 15px;
-}
-
-.col {
-  font-size: 15px;
-}
-
-.xs {
-  font-size: 15px;
+#about, #skills, #works, #contact, #findme {
+  /* overflow-y: scroll; */
+  height: 550px;
 }
