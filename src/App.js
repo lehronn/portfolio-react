@@ -27,9 +27,22 @@ class App extends Component {
           <Slider />
           <div id="skills" className="container">
             <div className="row justify-content-center skills">
-              <div className="col">a</div>
-              <div className="col">b</div>
-              <div className="col">c</div>
+              <div className="col">
+                <h5>HTML&SASS</h5>
+                <p>Technologie będące u samych podstaw dzisiejszej mobilnej rewolucji nie stoją w miejscu a zastosowanie ich w dzisiejszych aplikacjach wymaga coraz bardziej zaawansowanych technik.<strong>Sass</strong> i <strong>PUG</strong> pozwalają na więcej, szybciej i wygodniej!</p>
+              </div>
+              <div className="col">
+                <h5>Javascript</h5>
+                <p>JavaScript dzisiaj to nie tylko zwykły język ale wspaniała i bardzo aktywna społeczność dzięki której codziennie mają miejsce nowe innowacyjne rozwiązania. Jeśli chcesz być zawsze na bieżąco przyda się na pewno <strong>Babel, ReactJS, ReduxJS</strong> oraz <strong>React-Router</strong>.</p>
+              </div>
+              <div className="col">
+                <h5>ReactJS, Redux</h5>
+                <p>JavaScript dzisiaj to nie tylko zwykły język ale wspaniała i bardzo aktywna społeczność dzięki której codziennie mają miejsce nowe innowacyjne rozwiązania. Jeśli chcesz być zawsze na bieżąco przyda się na pewno <strong>Babel, ReactJS, ReduxJS</strong> oraz <strong>React-Router</strong>.</p>
+              </div>
+              <div className="col">
+                <h5>Grunt, Gulp, Webpack</h5>
+                <p>Tworzenie aplikacji internetowych jest dużo bardziej skomplikowane niż jeszcze kilka lat temu. By poradzić sobie z dzisiejszymi i przyszlymi zadaniami konieczne są dodatkowe narzędzia, takie jak: <strong>Git, Grunt, Gulp</strong> czy <strong>Webpack.</strong></p>
+              </div>
             </div>
           </div>
           <div id="works" className="container-fluid">

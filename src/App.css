@@ -1,4 +1,7 @@
+.container {
+  padding: 30px 10px 30px 10px;
+}
+
 #about, #skills, #works, #contact, #findme {
   /* overflow-y: scroll; */
-  height: 550px;
 }
