@@ -33,12 +33,12 @@ class Nav extends Component {
           Znajdź mnie
         </a>
         <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a className="dropdown-item" href="#">Facebook</a>
-          <a className="dropdown-item" href="#">Twitter</a>
+          <a className="dropdown-item" href="https://www.facebook.com/mateusz.stomski">Facebook</a>
+          <a className="dropdown-item" href="https://twitter.com/mateuszstomski">Twitter</a>
           <div className="dropdown-divider"></div>
-          <a className="dropdown-item" href="#">Hashnode</a>
-          <a className="dropdown-item" href="#">GitHub</a>
-          <a className="dropdown-item" href="#">LinkedIn</a>
+          <a className="dropdown-item" href="https://hashnode.com/@lehronn">Hashnode</a>
+          <a className="dropdown-item" href="https://github.com/lehronn">GitHub</a>
+          <a className="dropdown-item" href="http://www.linkedin.com/in/mateusz-stomski-b3337b48">LinkedIn</a>
         </div>
       </li>
           </ul>

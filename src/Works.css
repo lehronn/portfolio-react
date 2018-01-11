@@ -3,6 +3,38 @@
   margin: 0;
 }
 
+.card img {
+  /* padding: .5em; */
+}
+
 .works {
   background: url(./images/pexels-photo-176851.jpeg);
+}
+
+.btn-group {
+  display: inherit;
+}
+
+.badge-pug {
+  background-color: #0D47A1;
+  color: white;
+  margin: 2px;
+}
+
+.badge-sass {
+  background-color: #311B92;
+  color: white;
+  margin: 2px;
+}
+
+.badge-bootstrap {
+  background-color: #880E4F;
+  color: white;
+  margin: 2px;
+}
+
+.badge-gulp {
+  background-color: #FF6F00;
+  color: white;
+  margin: 2px;
 }

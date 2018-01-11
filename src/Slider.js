@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import styles from './Slider.css';
 import img0 from './images/0.jpg';
 import img1 from './images/1.jpg';
 import img2 from './images/2.jpg';
@@ -16,22 +17,22 @@ class Slider extends Component {
           <div className="carousel-item active">
             <img className="d-block w-100" src={img0} alt="First slide"/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>...</h5>
-              <p>...</p>
+              <h5>Oceany możliwości</h5>
+              <p>...zaoferujesz swoim klientom.</p>
             </div>
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src={img1} alt="Second slide"/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>...</h5>
-              <p>...</p>
+              <h5>Międzyplanetarna łączność...</h5>
+              <p>...to właśnie jest Internet.</p>
             </div>
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src={img2} alt="Third slide"/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>...</h5>
-              <p>...</p>
+              <h5>Siła marki.</h5>
+              <p>To osiągniemy razem.</p>
             </div>
           </div>
         </div>

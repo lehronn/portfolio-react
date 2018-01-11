@@ -31,8 +31,16 @@ div .jumbotron {
   text-shadow: 3px 3px #343a40;
 }
 
+.hello {
+  background-color: #4A148C;
+}
+
 .about {
   padding: 30px 0 30px 0;
+}
+
+.technology {
+  background-color: #BF360C;
 }
 
 #about, #skills, #works, #contact, #findme {
