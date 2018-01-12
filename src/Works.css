@@ -3,12 +3,17 @@
   margin: 0;
 }
 
+.container-fluid {
+  padding: 0;
+}
+
 .card img {
   /* padding: .5em; */
 }
 
 .works {
-  background: url(./images/pexels-photo-176851.jpeg);
+  background: url(./images/landscape-sky-night-stars-29435.jpg);
+  padding: 0;
 }
 
 .btn-group {

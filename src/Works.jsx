@@ -3,6 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.js';
 import styles from './Works.css';
 
+import './images/landscape-sky-night-stars-29435.jpg';
+
 import sodakit from './images/works/sodakit.png';
 import picturePerfect from './images/works/picturePerfect.jpg';
 import activeBox from './images/works/activeBox.jpg';

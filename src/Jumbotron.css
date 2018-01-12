@@ -1,0 +1,28 @@
+div .jumbotron {
+  margin: 0;
+  height: 100vh;
+  background: url(./images/pexels-photo-176851.jpeg);
+}
+
+.jumbotron-header {
+  position: absolute;
+  bottom: 5%;
+  left: 10%;
+  text-shadow: 3px 3px #343a40;
+}
+
+.summa {
+  position: absolute;
+  bottom: 105%;
+  left: -5%;
+  font-size: 10rem;
+  text-shadow: 3px 3px #343a40;
+}
+
+.summa-subtext {
+  position: absolute;
+  bottom: 145%;
+  left: 8%;
+  font-size: 2rem;
+  text-shadow: 3px 3px #343a40;
+}
