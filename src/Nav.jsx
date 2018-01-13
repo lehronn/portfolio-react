@@ -11,26 +11,30 @@ class Nav extends Component {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav mx-auto">
-            <li className="nav-item active">
-              <a className="nav-link" href="#about">O mnie</a>
-            </li>
             <li className="nav-item">
-              <a className="nav-link" href="#skills">Umiejętności</a>
+              <a className="nav-link" href="#hello">CV</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#works">Moje prace</a>
             </li>
             <li className="nav-item">
+              <a className="nav-link" href="#skills">Umiejętności</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link" href="#about">O mnie</a>
+            </li>
+            <li className="nav-item">
               <a className="nav-link" href="#contact">Kontakt</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="http://www.blog.stomski.pl">Blog</a>
+              <a className="nav-link" href="http://www.blog.stomski.pl">DevBlog</a>
             </li>
             <li className="nav-item dropdown">
         <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Znajdź mnie
         </a>
         <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a className="dropdown-item" href="http://www.blog.stomski.pl">Mój DevBlog</a>
           <a className="dropdown-item" href="https://www.facebook.com/mateusz.stomski">Facebook</a>
           <a className="dropdown-item" href="https://twitter.com/mateuszstomski">Twitter</a>
           <div className="dropdown-divider"></div>
