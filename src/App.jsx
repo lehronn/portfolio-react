@@ -22,18 +22,16 @@ import Footer from './Footer.jsx';
 class App extends Component {
   render() {
     return (
-      <div className="app">
+      <div className="app" data-spy="scroll" data-target="#navbar" data-offset="10">
         <Nav />
         <Jumbotron />
         <Hello />
-        <div data-spy="scroll" data-target="#navbar" data-offset="0">
-          <Works />
-          <Skills />
-          <About />
-          <Slider />
-          <Contact />
-          <Footer />
-        </div>
+        <Works />
+        <Skills />
+        <About />
+        <Slider />
+        <Contact />
+        <Footer />
       </div>
     );
   }

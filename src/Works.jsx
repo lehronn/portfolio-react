@@ -30,10 +30,10 @@ class Works extends Component {
               <span className="badge badge-bootstrap">Bootstrap</span>
               <span className="badge badge-gulp">Gulp</span>
               <br /><br />
-              <div class="btn-group text-center" role="group" aria-label="Basic example">
-                <button type="button" class="btn btn-secondary">Zobacz</button>
-                <button type="button" class="btn btn-secondary">GitHub</button>
-                <button type="button" class="btn btn-secondary">Pobierz</button>
+              <div className="btn-group text-center" role="group" aria-label="Basic example">
+                <button type="button" className="btn btn-secondary">Zobacz</button>
+                <button type="button" className="btn btn-secondary">GitHub</button>
+                <button type="button" className="btn btn-secondary">Pobierz</button>
               </div>
             </div>
           </div>
@@ -41,16 +41,16 @@ class Works extends Component {
               <img className="card-img-top" src={picturePerfect} alt="Card image cap" />
               <div className="card-body">
                 <h5 className="card-title">Picture Perfect</h5>
-                <p className="card-text">Szablon na podstawie mojego boilerplate`u sodakit.</p>
+                <p className="card-text">Szablon na podstawie mojego boilerplateu sodakit.</p>
                 <span className="badge badge-pug">PUG</span>
                 <span className="badge badge-sass">Sass</span>
                 <span className="badge badge-bootstrap">Bootstrap</span>
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
-                <div class="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-secondary">Zobacz</button>
-                  <button type="button" class="btn btn-secondary">GitHub</button>
-                  <button type="button" class="btn btn-secondary">Pobierz</button>
+                <div className="btn-group text-center" role="group" aria-label="Basic example">
+                  <button type="button" className="btn btn-secondary">Zobacz</button>
+                  <button type="button" className="btn btn-secondary">GitHub</button>
+                  <button type="button" className="btn btn-secondary">Pobierz</button>
                 </div>
               </div>
             </div>
@@ -64,10 +64,10 @@ class Works extends Component {
                 <span className="badge badge-bootstrap">Bootstrap</span>
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
-                <div class="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-secondary">Zobacz</button>
-                  <button type="button" class="btn btn-secondary">GitHub</button>
-                  <button type="button" class="btn btn-secondary">Pobierz</button>
+                <div className="btn-group text-center" role="group" aria-label="Basic example">
+                  <button type="button" className="btn btn-secondary">Zobacz</button>
+                  <button type="button" className="btn btn-secondary">GitHub</button>
+                  <button type="button" className="btn btn-secondary">Pobierz</button>
                 </div>
               </div>
             </div>
@@ -81,10 +81,10 @@ class Works extends Component {
                 <span className="badge badge-bootstrap">Bootstrap</span>
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
-                <div class="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-secondary">Zobacz</button>
-                  <button type="button" class="btn btn-secondary">GitHub</button>
-                  <button type="button" class="btn btn-secondary">Pobierz</button>
+                <div className="btn-group text-center" role="group" aria-label="Basic example">
+                  <button type="button" className="btn btn-secondary">Zobacz</button>
+                  <button type="button" className="btn btn-secondary">GitHub</button>
+                  <button type="button" className="btn btn-secondary">Pobierz</button>
                 </div>
               </div>
             </div>
@@ -98,10 +98,10 @@ class Works extends Component {
                 <span className="badge badge-bootstrap">Bootstrap</span>
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
-                <div class="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-secondary">Zobacz</button>
-                  <button type="button" class="btn btn-secondary">GitHub</button>
-                  <button type="button" class="btn btn-secondary">Pobierz</button>
+                <div className="btn-group text-center" role="group" aria-label="Basic example">
+                  <button type="button" className="btn btn-secondary">Zobacz</button>
+                  <button type="button" className="btn btn-secondary">GitHub</button>
+                  <button type="button" className="btn btn-secondary">Pobierz</button>
                 </div>
               </div>
             </div>
@@ -118,10 +118,10 @@ class Works extends Component {
                 <span className="badge badge-bootstrap">Bootstrap</span>
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
-                <div class="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-secondary">Zobacz</button>
-                  <button type="button" class="btn btn-secondary">GitHub</button>
-                  <button type="button" class="btn btn-secondary">Pobierz</button>
+                <div className="btn-group text-center" role="group" aria-label="Basic example">
+                  <button type="button" className="btn btn-secondary">Zobacz</button>
+                  <button type="button" className="btn btn-secondary">GitHub</button>
+                  <button type="button" className="btn btn-secondary">Pobierz</button>
                 </div>
               </div>
             </div>
@@ -135,10 +135,10 @@ class Works extends Component {
                 <span className="badge badge-bootstrap">Bootstrap</span>
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
-                <div class="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-secondary">Zobacz</button>
-                  <button type="button" class="btn btn-secondary">GitHub</button>
-                  <button type="button" class="btn btn-secondary">Pobierz</button>
+                <div className="btn-group text-center" role="group" aria-label="Basic example">
+                  <button type="button" className="btn btn-secondary">Zobacz</button>
+                  <button type="button" className="btn btn-secondary">GitHub</button>
+                  <button type="button" className="btn btn-secondary">Pobierz</button>
                 </div>
               </div>
             </div>
@@ -152,10 +152,10 @@ class Works extends Component {
                 <span className="badge badge-bootstrap">Bootstrap</span>
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
-                <div class="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-secondary">Zobacz</button>
-                  <button type="button" class="btn btn-secondary">GitHub</button>
-                  <button type="button" class="btn btn-secondary">Pobierz</button>
+                <div className="btn-group text-center" role="group" aria-label="Basic example">
+                  <button type="button" className="btn btn-secondary">Zobacz</button>
+                  <button type="button" className="btn btn-secondary">GitHub</button>
+                  <button type="button" className="btn btn-secondary">Pobierz</button>
                 </div>
               </div>
             </div>

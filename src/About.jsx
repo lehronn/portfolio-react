@@ -4,7 +4,6 @@ import styles from './About.css';
 class About extends Component {
   render() {
     return (
-      <div data-spy="scroll" data-target="#navbar" data-offset="0">
         <div id="about" className="container-fluid about">
           <div className="row">
             <div className="container">
@@ -12,7 +11,6 @@ class About extends Component {
               </div>
             </div>
           </div>
-        </div>
     );
   }
 }
