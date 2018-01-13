@@ -5,9 +5,8 @@ div .jumbotron {
 }
 
 .jumbotron-header {
-  position: absolute;
-  bottom: 5%;
-  left: 10%;
+  position: relative;
+  top: 80%;
   text-shadow: 3px 3px #343a40;
 }
 

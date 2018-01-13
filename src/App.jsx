@@ -22,7 +22,7 @@ import Footer from './Footer.jsx';
 class App extends Component {
   render() {
     return (
-      <div className="app" data-spy="scroll" data-target="#navbar" data-offset="10">
+      <div>
         <Nav />
         <Jumbotron />
         <Hello />

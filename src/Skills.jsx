@@ -16,7 +16,7 @@ class Skills extends Component {
             </div>
             <div className="col">
               <h5>Javascript</h5>
-              <p>JavaScript zmienił oblicze dzisiejszych stron internetowych/ Od blokowanego i znienawidzonego języka client-side stał się uniwersalną technologią w której powstaje nie tylko front-end, ale i back-end stron internetowych oraz aplikacje dostępne na telefony i komputery.</p>
+              <p>JavaScript zmienił oblicze dzisiejszych stron internetowych. Od blokowanego i znienawidzonego języka client-side stał się uniwersalną technologią w której powstaje nie tylko front-end, ale i back-end stron internetowych oraz aplikacje dostępne na telefony i komputery.</p>
             </div>
             <div className="col">
               <h5>ReactJS, Redux</h5>
