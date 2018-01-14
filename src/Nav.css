@@ -1,3 +1,16 @@
 .navbar {
   background-color: #263238;
+  opacity: 0;
+  transition: opacity .2s;
 }
+
+/* start of TRANSPARENT NAV WITH SCROLL */
+body.scrolled #navbar {
+  opacity: 1;
+  transition: opacity .6s;
+}
+body.scrolled #navbar:hover {
+  opacity: 1;
+  transition: opacity .6s;
+}
+/* end of TRANSPARENT NAV WITH SCROLL */
