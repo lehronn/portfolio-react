@@ -1,16 +1,22 @@
 import React, { Component } from 'react';
 import styles from './Nav.css';
 
-// start of TRANSPARENT NAV WITH SCROLL
-// document.documentElement.clientHeight is a 100vh, you can use just 50, 5, 200, as you wish.
-window.addEventListener('scroll', function () {
-  document.body.classList[
-    window.scrollY > document.documentElement.clientHeight ? 'add': 'remove'
-  ]('scrolled');
-});
-// end of TRANSPARENT NAV WITH SCROLL
+
+
 
 class Nav extends Component {
+
+  componentDidMount() {
+    // start of TRANSPARENT NAV WITH SCROLL
+    // document.documentElement.clientHeight is a 100vh, you can use just 50, 5, 200, as you wish.
+    window.addEventListener('scroll', function () {
+      document.body.classList[
+        window.scrollY > document.documentElement.clientHeight ? 'add': 'remove'
+      ]('scrolled');
+    });
+    // end of TRANSPARENT NAV WITH SCROLL
+  }
+
   render() {
     return (
       <nav id="navbar" className="navbar fixed-top navbar-expand-lg navbar-dark ">

@@ -2,6 +2,7 @@ div .jumbotron {
   margin: 0;
   height: 100vh;
   background: url(./images/pexels-photo-176851.jpeg);
+  border-radius: 0;
 }
 
 .jumbotron-header {

@@ -2,12 +2,14 @@
   background-color: #263238;
   opacity: 0;
   transition: opacity .2s;
+  visibility: hidden;
 }
 
 /* start of TRANSPARENT NAV WITH SCROLL */
 body.scrolled #navbar {
   opacity: 1;
   transition: opacity .6s;
+  visibility: visible;
 }
 body.scrolled #navbar:hover {
   opacity: 1;
