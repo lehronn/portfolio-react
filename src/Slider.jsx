@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import styles from './Slider.css';
+import './Slider.css';
 import img0 from './images/0.jpg';
 import img1 from './images/1.jpg';
 import img2 from './images/2.jpg';

@@ -1,22 +1,7 @@
 import React, { Component } from 'react';
-import styles from './Nav.css';
-
-
-
+import './Nav.css';
 
 class Nav extends Component {
-
-  componentDidMount() {
-    // start of TRANSPARENT NAV WITH SCROLL
-    // document.documentElement.clientHeight is a 100vh, you can use just 50, 5, 200, as you wish.
-    window.addEventListener('scroll', function () {
-      document.body.classList[
-        window.scrollY > document.documentElement.clientHeight ? 'add': 'remove'
-      ]('scrolled');
-    });
-    // end of TRANSPARENT NAV WITH SCROLL
-  }
-
   render() {
     return (
       <nav id="navbar" className="navbar fixed-top navbar-expand-lg navbar-dark ">
@@ -45,23 +30,34 @@ class Nav extends Component {
               <a className="nav-link" href="http://www.blog.stomski.pl">DevBlog</a>
             </li>
             <li className="nav-item dropdown">
-        <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Znajdź mnie
-        </a>
-        <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a className="dropdown-item" href="http://www.blog.stomski.pl">Mój DevBlog</a>
-          <a className="dropdown-item" href="https://www.facebook.com/mateusz.stomski">Facebook</a>
-          <a className="dropdown-item" href="https://twitter.com/mateuszstomski">Twitter</a>
-          <div className="dropdown-divider"></div>
-          <a className="dropdown-item" href="https://hashnode.com/@lehronn">Hashnode</a>
-          <a className="dropdown-item" href="https://github.com/lehronn">GitHub</a>
-          <a className="dropdown-item" href="http://www.linkedin.com/in/mateusz-stomski-b3337b48">LinkedIn</a>
-        </div>
-      </li>
+              <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Znajdź mnie
+              </a>
+              <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a className="dropdown-item" href="http://www.blog.stomski.pl">Mój DevBlog</a>
+                <a className="dropdown-item" href="https://www.facebook.com/mateusz.stomski">Facebook</a>
+                <a className="dropdown-item" href="https://twitter.com/mateuszstomski">Twitter</a>
+                <div className="dropdown-divider"></div>
+                <a className="dropdown-item" href="https://hashnode.com/@lehronn">Hashnode</a>
+                <a className="dropdown-item" href="https://github.com/lehronn">GitHub</a>
+                <a className="dropdown-item" href="http://www.linkedin.com/in/mateusz-stomski-b3337b48">LinkedIn</a>
+              </div>
+            </li>
           </ul>
         </div>
       </nav>
     );
+  }
+  
+  componentDidMount() {
+    // start of TRANSPARENT NAV WITH SCROLL
+    // document.documentElement.clientHeight is a 100vh, you can use just 50, 5, 200, as you wish.
+    window.addEventListener('scroll', function () {
+      document.body.classList[
+        window.scrollY > document.documentElement.clientHeight ? 'add': 'remove'
+      ]('scrolled');
+    });
+    // end of TRANSPARENT NAV WITH SCROLL
   }
 }
 

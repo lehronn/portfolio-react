@@ -6,7 +6,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.js';
 import './images/landscape-sky-night-stars-29435.jpg';
 import './images/pexels-photo-176851.jpeg';
 
-import styles from './App.css';
+import './App.css';
 
 import Nav from './Nav.jsx';
 import Jumbotron from './Jumbotron.jsx';
@@ -19,6 +19,21 @@ import Contact from './Contact.jsx';
 import Footer from './Footer.jsx';
 
 class App extends Component {
+  render() {
+    return (
+      <div>
+        <Nav />
+        <Jumbotron />
+        <Hello />
+        <Works />
+        <Skills />
+        <About />
+        <Slider />
+        <Contact />
+        <Footer />
+      </div>
+    );
+  }
 
   componentDidMount() {
     // start of LOCALSCROLL ANIMATE
@@ -36,22 +51,6 @@ class App extends Component {
           });
     });
     // end of LOCALSCROLL ANIMATE
-  }
-
-  render() {
-    return (
-      <div>
-        <Nav />
-        <Jumbotron />
-        <Hello />
-        <Works />
-        <Skills />
-        <About />
-        <Slider />
-        <Contact />
-        <Footer />
-      </div>
-    );
   }
 }
 
