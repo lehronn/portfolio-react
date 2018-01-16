@@ -26,9 +26,6 @@ class Nav extends Component {
             <li className="nav-item">
               <a className="nav-link" href="#contact">Kontakt</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="http://www.blog.stomski.pl">DevBlog</a>
-            </li>
           </ul>
         </div>
       </nav>

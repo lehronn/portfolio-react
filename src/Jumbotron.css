@@ -10,6 +10,12 @@ div .jumbotron {
   top: 80%;
   text-shadow: 3px 3px #343a40;
 }
+.jumbotron-header > .fa {
+  position: absolute;
+  right: -15%;
+  bottom: 25%;
+  font-size: 4rem;
+}
 
 .summa {
   position: absolute;
