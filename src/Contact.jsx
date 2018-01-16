@@ -16,9 +16,12 @@ class Contact extends Component {
             </div>
             <div className="col">
               <h5>Mateusz Stomski</h5>
-              <p>Rybnik, śródmieście.</p>
-              <p>email: <a href="mailto:mateusz.stomski@gmail.com">mateusz.stomski@gmail.com</a></p>
-              <p>telefon: 887 6666 06</p>
+              <p><i class="fa fa-building-o" aria-hidden="true"></i>
+&nbsp;Rybnik, śródmieście.</p>
+              <p><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;
+ <a className="text-light" href="mailto:mateusz.stomski@gmail.com">mateusz.stomski@gmail.com</a></p>
+              <p><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp;
+ 887 6666 06</p>
             </div>
           </div>
         </div>

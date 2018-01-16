@@ -11,6 +11,7 @@ import './App.css';
 import Nav from './Nav.jsx';
 import Jumbotron from './Jumbotron.jsx';
 import Hello from './Hello.jsx';
+import Social from './Social.jsx';
 import Works from './Works.jsx';
 import Skills from './Skills.jsx';
 import About from './About.jsx';
@@ -24,6 +25,7 @@ class App extends Component {
       <div>
         <Nav />
         <Jumbotron />
+        <Social />
         <Hello />
         <Works />
         <Skills />

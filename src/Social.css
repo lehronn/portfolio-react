@@ -1,0 +1,43 @@
+div .social {
+  background-color: #01579B;
+  padding: 25px 0 25px 0;
+  height: 150px;
+}
+
+div .social-link {
+  position: relative;
+  top: -40px;
+  font-size: 1rem;
+  text-align: center;
+  padding: 25px;
+}
+
+.social-link {
+  font-size: 2rem;
+  padding: 10px;
+  text-align: center;
+  width: 20%;
+  height: 100%;
+}
+
+.social-icon {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.social-desc {
+  font-size: 1rem;
+  text-align: center;
+  margin: auto;
+  opacity: 75%;
+}
+
+.social-link:hover .social-icon {
+  font-size: 3rem;
+  transition: font-size ease-out 0.2s;
+}
+
+.social-link:hover .social-desc {
+  opacity: 100%;
+  transition: opacity ease-out 0.2s;
+}

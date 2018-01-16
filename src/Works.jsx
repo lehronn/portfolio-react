@@ -31,9 +31,12 @@ class Works extends Component {
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
                 <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">Zobacz</button>
-                  <button type="button" className="btn btn-secondary">GitHub</button>
-                  <button type="button" className="btn btn-secondary">Pobierz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
                 </div>
               </div>
             </div>
@@ -48,9 +51,12 @@ class Works extends Component {
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
                 <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">Zobacz</button>
-                  <button type="button" className="btn btn-secondary">GitHub</button>
-                  <button type="button" className="btn btn-secondary">Pobierz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
                 </div>
               </div>
             </div>
@@ -65,9 +71,12 @@ class Works extends Component {
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
                 <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">Zobacz</button>
-                  <button type="button" className="btn btn-secondary">GitHub</button>
-                  <button type="button" className="btn btn-secondary">Pobierz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
                 </div>
               </div>
             </div>
@@ -85,9 +94,12 @@ class Works extends Component {
               <span className="badge badge-gulp">Gulp</span>
               <br /><br />
               <div className="btn-group text-center" role="group" aria-label="Basic example">
-                <button type="button" className="btn btn-secondary">Zobacz</button>
-                <button type="button" className="btn btn-secondary">GitHub</button>
-                <button type="button" className="btn btn-secondary">Pobierz</button>
+                <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
               </div>
             </div>
           </div>
@@ -102,9 +114,12 @@ class Works extends Component {
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
                 <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">Zobacz</button>
-                  <button type="button" className="btn btn-secondary">GitHub</button>
-                  <button type="button" className="btn btn-secondary">Pobierz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
                 </div>
               </div>
             </div>
@@ -119,9 +134,12 @@ class Works extends Component {
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
                 <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">Zobacz</button>
-                  <button type="button" className="btn btn-secondary">GitHub</button>
-                  <button type="button" className="btn btn-secondary">Pobierz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
                 </div>
               </div>
             </div>
@@ -136,9 +154,12 @@ class Works extends Component {
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
                 <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">Zobacz</button>
-                  <button type="button" className="btn btn-secondary">GitHub</button>
-                  <button type="button" className="btn btn-secondary">Pobierz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
                 </div>
               </div>
             </div>
@@ -153,9 +174,12 @@ class Works extends Component {
                 <span className="badge badge-gulp">Gulp</span>
                 <br /><br />
                 <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">Zobacz</button>
-                  <button type="button" className="btn btn-secondary">GitHub</button>
-                  <button type="button" className="btn btn-secondary">Pobierz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-eye" aria-hidden="true"></i>
+ &nbsp;Zobacz</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-code-fork" aria-hidden="true"></i>
+&nbsp;GitHub</button>
+                  <button type="button" className="btn btn-secondary"><i class="fa fa-cloud-download" aria-hidden="true"></i>
+&nbsp;Pobierz</button>
                 </div>
               </div>
             </div>
