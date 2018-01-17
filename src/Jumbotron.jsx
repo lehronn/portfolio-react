@@ -15,7 +15,7 @@ class Jumbotron extends Component {
           <p className="lead">
             Jeśli jesteś zainteresowany współpracą zapraszam do kontaktu.
           </p>
-          <i class="fa fa-arrow-down" aria-hidden="true"></i>
+          <i className="fa fa-arrow-down" aria-hidden="true"></i>
         </div>
       </div>
     );

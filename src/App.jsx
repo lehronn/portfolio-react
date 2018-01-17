@@ -41,6 +41,7 @@ class App extends Component {
     // start of LOCALSCROLL ANIMATE
     $("#navbar ul li a[href^='#']").on('click', function(e) {
       // prevent default anchor click behavior
+      var target = this.hash;
       e.preventDefault();
 
       // animate
@@ -49,7 +50,7 @@ class App extends Component {
       }, 1100, function(){
             // when done, add hash to url
             // (default click behaviour)
-            window.location.hash = this.hash;
+            window.location.hash = target;
           });
     });
     // end of LOCALSCROLL ANIMATE
