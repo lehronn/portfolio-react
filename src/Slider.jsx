@@ -17,21 +17,21 @@ class Slider extends Component {
           <div className="carousel-item active">
             <img className="d-block w-100" src={img0} alt="First slide"/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>Oceany możliwości</h5>
+              <h5>Strony i wizytówki internetowe.</h5>
               <p>...zaoferujesz swoim klientom.</p>
             </div>
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src={img1} alt="Second slide"/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>Międzyplanetarna łączność...</h5>
+              <h5>Wdrażanie Wordpressa, tłumaczenie i obsługa wtyczek.</h5>
               <p>...to właśnie jest Internet.</p>
             </div>
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src={img2} alt="Third slide"/>
             <div className="carousel-caption d-none d-md-block">
-              <h5>Siła marki.</h5>
+              <h5>Pozycjonowanie pasywne, ocena semantyki kodu.</h5>
               <p>To osiągniemy razem.</p>
             </div>
           </div>

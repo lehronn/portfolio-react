@@ -20,7 +20,7 @@ class Skills extends Component {
             </div>
             <div className="col">
               <h5>ReactJS, Redux</h5>
-              <p>JavaScript dzisiaj to nie tylko zwykły język ale wspaniała i bardzo aktywna społeczność dzięki której codziennie mają miejsce nowe innowacyjne rozwiązania. Jeśli chcesz być zawsze na bieżąco przyda się na pewno <strong>Babel, ReactJS, ReduxJS</strong> oraz <strong>React-Router</strong>.</p>
+              <p>JavaScript dzisiaj to nie tylko zwykły język ale wspaniała i bardzo aktywna społeczność dzięki której codziennie mają miejsce nowe innowacyjne rozwiązania. Jeśli chcemy być zawsze na bieżąco przyda się na pewno <strong>Babel, ReactJS, ReduxJS, JSX</strong> oraz <strong>React-Router</strong>.</p>
             </div>
             <div className="col">
               <h5>Grunt, Gulp, Webpack</h5>
