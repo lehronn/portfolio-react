@@ -22,7 +22,7 @@ class Works extends Component {
           <div className="card-deck justify-content-center align-self-center">
             <div className="card col-lg-2">
               <img className="card-img-top" src={lifePhoto} alt="Card image cap"/>
-              <div className="card-body">
+              <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                 <span className="badge badge-pug">PUG</span>
@@ -42,7 +42,7 @@ class Works extends Component {
             </div>
             <div className="card col-lg-3">
               <img className="card-img-top" src={niceToMeetYou} alt="Card image cap"/>
-              <div className="card-body">
+              <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                 <span className="badge badge-pug">PUG</span>
@@ -62,7 +62,7 @@ class Works extends Component {
             </div>
             <div className="card col-lg-2">
               <img className="card-img-top" src={yourLogo} alt="Card image cap"/>
-              <div className="card-body">
+              <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                 <span className="badge badge-pug">PUG</span>
@@ -85,7 +85,7 @@ class Works extends Component {
           <div className="card-deck justify-content-center align-self-center">
             <div className="card col-lg-2">
               <img className="card-img-top" src={sodakit} alt="sodakit"/>
-              <div className="card-body">
+              <div className="card-body text-light">
                 <h5 className="card-title">Soda Kit</h5>
                 <p className="card-text">Boilerplate który stworzyłem na swoje potrzeby, pozwala szybko zacząć pracę z PUG, Sassem, Gulpem i Bootstrapem. Optymalizacja obrazów, minimalizacja plików, mapy źródłowe, eslint, awesome icons - wszystko na pokładzie.</p>
                 <span className="badge badge-pug">PUG</span>
@@ -105,7 +105,7 @@ class Works extends Component {
             </div>
             <div className="card col-lg-3">
               <img className="card-img-top" src={picturePerfect} alt="Card image cap"/>
-              <div className="card-body">
+              <div className="card-body text-light">
                 <h5 className="card-title">Picture Perfect</h5>
                 <p className="card-text">Szablon na podstawie mojego boilerplateu sodakit.</p>
                 <span className="badge badge-pug">PUG</span>
@@ -125,7 +125,7 @@ class Works extends Component {
             </div>
             <div className="card col-lg-2">
               <img className="card-img-top" src={activeBox} alt="Card image cap"/>
-              <div className="card-body">
+              <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                 <span className="badge badge-pug">PUG</span>
