@@ -25,18 +25,16 @@ class Works extends Component {
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <span className="badge badge-pug">PUG</span>
-                <span className="badge badge-sass">Sass</span>
-                <span className="badge badge-bootstrap">Bootstrap</span>
-                <span className="badge badge-gulp">Gulp</span>
+                <div className="text-center">
+                  <span className="badge badge-pug">PUG</span>
+                  <span className="badge badge-sass">Sass</span>
+                  <span className="badge badge-bootstrap">Bootstrap</span>
+                  <span className="badge badge-gulp">Gulp</span>
+                </div>
                 <br/><br/>
-                <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-eye" aria-hidden="true"></i>
-                    &nbsp;Zobacz</button>
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-code-fork" aria-hidden="true"></i>
-                    &nbsp;GitHub</button>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -45,18 +43,16 @@ class Works extends Component {
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                <span className="badge badge-pug">PUG</span>
-                <span className="badge badge-sass">Sass</span>
-                <span className="badge badge-bootstrap">Bootstrap</span>
-                <span className="badge badge-gulp">Gulp</span>
+                <div className="text-center">
+                  <span className="badge badge-pug">PUG</span>
+                  <span className="badge badge-sass">Sass</span>
+                  <span className="badge badge-bootstrap">Bootstrap</span>
+                  <span className="badge badge-gulp">Gulp</span>
+                </div>
                 <br/><br/>
-                <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-eye" aria-hidden="true"></i>
-                    &nbsp;Zobacz</button>
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-code-fork" aria-hidden="true"></i>
-                    &nbsp;GitHub</button>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -65,18 +61,16 @@ class Works extends Component {
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                <span className="badge badge-pug">PUG</span>
-                <span className="badge badge-sass">Sass</span>
-                <span className="badge badge-bootstrap">Bootstrap</span>
-                <span className="badge badge-gulp">Gulp</span>
+                <div className="text-center">
+                  <span className="badge badge-pug">PUG</span>
+                  <span className="badge badge-sass">Sass</span>
+                  <span className="badge badge-bootstrap">Bootstrap</span>
+                  <span className="badge badge-gulp">Gulp</span>
+                </div>
                 <br/><br/>
-                <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-eye" aria-hidden="true"></i>
-                    &nbsp;Zobacz</button>
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-code-fork" aria-hidden="true"></i>
-                    &nbsp;GitHub</button>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -88,18 +82,16 @@ class Works extends Component {
               <div className="card-body text-light">
                 <h5 className="card-title">Soda Kit</h5>
                 <p className="card-text">Boilerplate który stworzyłem na swoje potrzeby, pozwala szybko zacząć pracę z PUG, Sassem, Gulpem i Bootstrapem. Optymalizacja obrazów, minimalizacja plików, mapy źródłowe, eslint, awesome icons - wszystko na pokładzie.</p>
-                <span className="badge badge-pug">PUG</span>
-                <span className="badge badge-sass">Sass</span>
-                <span className="badge badge-bootstrap">Bootstrap</span>
-                <span className="badge badge-gulp">Gulp</span>
+                <div className="text-center">
+                  <span className="badge badge-pug">PUG</span>
+                  <span className="badge badge-sass">Sass</span>
+                  <span className="badge badge-bootstrap">Bootstrap</span>
+                  <span className="badge badge-gulp">Gulp</span>
+                </div>
                 <br/><br/>
-                <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-eye" aria-hidden="true"></i>
-                    &nbsp;Zobacz</button>
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-code-fork" aria-hidden="true"></i>
-                    &nbsp;GitHub</button>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -108,18 +100,16 @@ class Works extends Component {
               <div className="card-body text-light">
                 <h5 className="card-title">Picture Perfect</h5>
                 <p className="card-text">Szablon na podstawie mojego boilerplateu sodakit.</p>
-                <span className="badge badge-pug">PUG</span>
-                <span className="badge badge-sass">Sass</span>
-                <span className="badge badge-bootstrap">Bootstrap</span>
-                <span className="badge badge-gulp">Gulp</span>
+                <div className="text-center">
+                  <span className="badge badge-pug">PUG</span>
+                  <span className="badge badge-sass">Sass</span>
+                  <span className="badge badge-bootstrap">Bootstrap</span>
+                  <span className="badge badge-gulp">Gulp</span>
+                </div>
                 <br/><br/>
-                <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-eye" aria-hidden="true"></i>
-                    &nbsp;Zobacz</button>
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-code-fork" aria-hidden="true"></i>
-                    &nbsp;GitHub</button>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -128,18 +118,16 @@ class Works extends Component {
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
                 <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                <span className="badge badge-pug">PUG</span>
-                <span className="badge badge-sass">Sass</span>
-                <span className="badge badge-bootstrap">Bootstrap</span>
-                <span className="badge badge-gulp">Gulp</span>
+                <div className="text-center">
+                  <span className="badge badge-pug">PUG</span>
+                  <span className="badge badge-sass">Sass</span>
+                  <span className="badge badge-bootstrap">Bootstrap</span>
+                  <span className="badge badge-gulp">Gulp</span>
+                </div>
                 <br/><br/>
-                <div className="btn-group text-center" role="group" aria-label="Basic example">
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-eye" aria-hidden="true"></i>
-                    &nbsp;Zobacz</button>
-                  <button type="button" className="btn btn-secondary">
-                    <i className="fa fa-code-fork" aria-hidden="true"></i>
-                    &nbsp;GitHub</button>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>

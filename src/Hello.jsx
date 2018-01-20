@@ -11,7 +11,7 @@ class Hello extends Component {
                 Tworzenie stron internetowych interesuje mnie od dawna, przez ponad dwa lata prowadziłem sklep internetowy, a od pół roku pracuję nad tym by Webdev stał się moim zawodem. Ukończyłem <strong>półroczny kurs Kodilli</strong> traktujący o tworzeniu stron internetowych przy pomocy JavaScript w zakresie frontend i backend a teraz czas by nabrać doświadczenia i obycia z technologiami które poznałem.
                 <br/><br/>
                 <button type="button" className="btn btn-primary float-right">
-                  Moje CV&nbsp;<i className="fa fa-file-text-o" aria-hidden="true"></i>
+                  <i className="fa fa-file-text-o" aria-hidden="true"></i>&nbsp;&nbsp;Moje CV
                 </button>
               </div>
             </div>
