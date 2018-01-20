@@ -40,7 +40,7 @@
 
 .card-link > a {
   padding: 0 55px 0 5px;
-
+  background-color: #006064;
 }
 
 .inside-card {
@@ -53,24 +53,9 @@
   top: 15px;
 }
 
-.btn-secondary {
-  background-color: #006064;
-  border: 0;
-}
-
-.btn-secondary:hover {
-  background-color: #004D40;
-}
-
-
 .card img {
   width: 100%;
   border-radius: 0;
-}
-
-
-.btn-group {
-  display: inherit;
 }
 
 .badge-pug {
