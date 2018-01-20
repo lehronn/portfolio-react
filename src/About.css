@@ -2,3 +2,7 @@ div .about {
   background-color: #00838F;
   padding: 60px 0 60px 0;
 }
+
+.about-paragraph {
+  padding: 25px 0 25px 0;
+}

@@ -1,4 +1,20 @@
 .carousel-item {
-  height: 450px;
-  text-shadow: 3px 3px #343a40;
+  height: 750px;
+  text-shadow: 1px 1px #343a40;
+}
+
+.carousel-caption {
+  font-size: 1.2rem;
+  width: 100%;
+  position: absolute;
+  padding: 45px 30% 45px 30%;
+  left: 0px;
+  bottom: 0px;
+  background-color: #1A237E;
+}
+
+.carousel-indicators > li {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
 }

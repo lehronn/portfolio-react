@@ -19,7 +19,7 @@ class Works extends Component {
     return (<div id="works" className="container-fluid">
       <div className="row justify-content-center works">
         <div className="card-deck">
-          <div className="card">
+          <div className="card col-md-3">
             <img className="card-img-top" src={lifePhoto} alt="Card image cap"/>
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -42,7 +42,7 @@ class Works extends Component {
               </div>
             </div>
           </div>
-          <div className="card">
+          <div className="card col-md-3">
             <img className="card-img-top" src={niceToMeetYou} alt="Card image cap"/>
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -65,7 +65,7 @@ class Works extends Component {
               </div>
             </div>
           </div>
-          <div className="card">
+          <div className="card col-md-3">
             <img className="card-img-top" src={yourLogo} alt="Card image cap"/>
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
@@ -91,7 +91,7 @@ class Works extends Component {
         </div>
 
         <div className="card-deck">
-          <div className="card">
+          <div className="card col-md-2">
             <img className="card-img-top" src={sodakit} alt="sodakit"/>
             <div className="card-body">
               <h5 className="card-title">Soda Kit</h5>
@@ -114,7 +114,7 @@ class Works extends Component {
               </div>
             </div>
           </div>
-          <div className="card">
+          <div className="card col-md-2">
             <img className="card-img-top" src={picturePerfect} alt="Card image cap"/>
             <div className="card-body">
               <h5 className="card-title">Picture Perfect</h5>
@@ -137,54 +137,8 @@ class Works extends Component {
               </div>
             </div>
           </div>
-          <div className="card">
+          <div className="card col-md-2">
             <img className="card-img-top" src={activeBox} alt="Card image cap"/>
-            <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-              <span className="badge badge-pug">PUG</span>
-              <span className="badge badge-sass">Sass</span>
-              <span className="badge badge-bootstrap">Bootstrap</span>
-              <span className="badge badge-gulp">Gulp</span>
-              <br/><br/>
-              <div className="btn-group text-center" role="group" aria-label="Basic example">
-                <button type="button" className="btn btn-secondary">
-                  <i className="fa fa-eye" aria-hidden="true"></i>
-                  &nbsp;Zobacz</button>
-                <button type="button" className="btn btn-secondary">
-                  <i className="fa fa-code-fork" aria-hidden="true"></i>
-                  &nbsp;GitHub</button>
-                <button type="button" className="btn btn-secondary">
-                  <i className="fa fa-cloud-download" aria-hidden="true"></i>
-                  &nbsp;Pobierz</button>
-              </div>
-            </div>
-          </div>
-          <div className="card">
-            <img className="card-img-top" src={designCommunications} alt="Card image cap"/>
-            <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-              <span className="badge badge-pug">PUG</span>
-              <span className="badge badge-sass">Sass</span>
-              <span className="badge badge-bootstrap">Bootstrap</span>
-              <span className="badge badge-gulp">Gulp</span>
-              <br/><br/>
-              <div className="btn-group text-center" role="group" aria-label="Basic example">
-                <button type="button" className="btn btn-secondary">
-                  <i className="fa fa-eye" aria-hidden="true"></i>
-                  &nbsp;Zobacz</button>
-                <button type="button" className="btn btn-secondary">
-                  <i className="fa fa-code-fork" aria-hidden="true"></i>
-                  &nbsp;GitHub</button>
-                <button type="button" className="btn btn-secondary">
-                  <i className="fa fa-cloud-download" aria-hidden="true"></i>
-                  &nbsp;Pobierz</button>
-              </div>
-            </div>
-          </div>
-          <div className="card">
-            <img className="card-img-top" src={designLab} alt="Card image cap"/>
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
               <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>

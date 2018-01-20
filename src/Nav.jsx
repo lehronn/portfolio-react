@@ -21,7 +21,7 @@ class Nav extends Component {
               <a className="nav-link" href="#skills">Umiejętności</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#about">O mnie</a>
+              <a className="nav-link" href="#carousel">O mnie</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#contact">Kontakt</a>

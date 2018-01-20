@@ -29,7 +29,6 @@ class App extends Component {
         <Hello />
         <Works />
         <Skills />
-        <About />
         <Slider />
         <Contact />
         <Footer />

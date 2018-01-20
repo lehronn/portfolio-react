@@ -8,7 +8,7 @@ div .jumbotron {
 .jumbotron-header {
   position: relative;
   top: 80%;
-  text-shadow: 3px 3px #343a40;
+  text-shadow: 1px 1px #343a40;
 }
 .jumbotron-header > .fa {
   position: absolute;
@@ -22,7 +22,7 @@ div .jumbotron {
   bottom: 105%;
   left: -5%;
   font-size: 10rem;
-  text-shadow: 3px 3px #343a40;
+  text-shadow: 1px 1px #343a40;
 }
 
 .summa-subtext {

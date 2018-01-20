@@ -11,8 +11,7 @@ class Contact extends Component {
           </div>
             <div className="col">
               <h5>Kontakt</h5>
-              <p>Jeśli mogę Ci w czymś pomóc, masz dla mnie ciekawe zlecenie lub jesteś zainteresowany współpracą długoterminową proszę Skontaktuj się ze mną. Zbudujmy coś razem.</p>
-              <h2>;)</h2>
+              <p>Jeśli mogę w czymś pomóc, masz ciekawe zlecenie lub jesteś zainteresowany współpracą długoterminową, proszę napisz lub zadzwoń.</p>
             </div>
             <div className="col">
               <h5>Mateusz Stomski</h5>
