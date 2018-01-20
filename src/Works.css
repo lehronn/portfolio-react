@@ -1,15 +1,16 @@
 .works-container {
   padding: 90px 0 90px 0;
+  background: url(./images/landscape-sky-night-stars-29435.jpg) no-repeat;
+  background-color: #040b18;
 }
 
 .works {
-  background: url(./images/landscape-sky-night-stars-29435.jpg) no-repeat;
   padding: 0;
   min-height: 100vh;
 }
 
 .card-deck {
-  padding: 45px 0px 45px 0;
+  padding: 65px 0px 65px 0;
   margin: 0;
 }
 
@@ -36,7 +37,18 @@
 }
 
 .outside-card {
-  background-color: #263238;
+  background-color: #212121;
+  position: relative;
+  top: 35px;
+}
+
+.btn-secondary {
+  background-color: #006064;
+  border: 0;
+}
+
+.btn-secondary:hover {
+  background-color: #004D40;
 }
 
 .card:hover {
