@@ -23,8 +23,62 @@ class Works extends Component {
             <div className="card outside-card col-lg-2">
               <img className="card-img-top" src={lifePhoto} alt="Card image cap"/>
               <div className="card-body text-light">
-                <h5 className="card-title">Card title</h5>
-                <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <h5 className="card-title">Biuro podróży</h5>
+                <p className="card-text">Aplikacja typu single-page zawierająca listę krajów z informacjami o nich. Napisana w React.js w ramach kursu <strong>Kodilla WebDeveloper</strong>.</p>
+                <div className="text-center">
+                  <span className="badge badge-pug">React.js</span>
+                  <span className="badge badge-sass">React Router</span>
+                  <span className="badge badge-bootstrap">Redux</span>
+                </div>
+                <br/><br/>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/20.3"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                </div>
+              </div>
+            </div>
+            <div className="card inside-card col-lg-3">
+              <img className="card-img-top" src={niceToMeetYou} alt="Card image cap"/>
+              <div className="card-body text-light">
+                <h5 className="card-title">Giphy Search</h5>
+                <p className="card-text">Wyszukiwarka gifów napisana za pomocą React.JS i API GIPHY.com którą napisałem w ramach kursu <strong>Kodilla WebDeveloper</strong>.</p>
+                <div className="text-center">
+                  <span className="badge badge-success">React.js</span>
+                  <span className="badge badge-sass">REST Api</span>
+                </div>
+                <br/><br/>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/giphy-search"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                </div>
+              </div>
+            </div>
+            <div className="card outside-card col-lg-2">
+              <img className="card-img-top" src={yourLogo} alt="Card image cap"/>
+              <div className="card-body text-light">
+                <h5 className="card-title">React Chat</h5>
+                <p className="card-text">Aplikacja czatu internetowego napisana za pomocą Express i React w ramach kursu <strong>Kodilla WebDeveloper</strong>.</p>
+                <div className="text-center">
+                  <span className="badge badge-success">Node.js</span>
+                  <span className="badge badge-primary">Express.js</span>
+                  <span className="badge badge-success">React.js</span>
+                  <span className="badge badge-secondary">Socket.io</span>
+                </div>
+                <br/><br/>
+                <div className="card-links text-center">
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="card-deck justify-content-center align-self-center">
+            <div className="card outside-card col-lg-2">
+              <img className="card-img-top" src={picturePerfect} alt="Card image cap"/>
+              <div className="card-body text-light">
+                <h5 className="card-title">Picture Perfect</h5>
+                <p className="card-text">Szablon responsywnej strony internetowej na podstawie mojego boilerplateu Sodakit-front. </p>
                 <div className="text-center">
                   <span className="badge badge-pug">PUG</span>
                   <span className="badge badge-sass">Sass</span>
@@ -39,45 +93,6 @@ class Works extends Component {
               </div>
             </div>
             <div className="card inside-card col-lg-3">
-              <img className="card-img-top" src={niceToMeetYou} alt="Card image cap"/>
-              <div className="card-body text-light">
-                <h5 className="card-title">Card title</h5>
-                <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                <div className="text-center">
-                  <span className="badge badge-pug">PUG</span>
-                  <span className="badge badge-sass">Sass</span>
-                  <span className="badge badge-bootstrap">Bootstrap</span>
-                  <span className="badge badge-gulp">Gulp</span>
-                </div>
-                <br/><br/>
-                <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
-                </div>
-              </div>
-            </div>
-            <div className="card outside-card col-lg-2">
-              <img className="card-img-top" src={yourLogo} alt="Card image cap"/>
-              <div className="card-body text-light">
-                <h5 className="card-title">Card title</h5>
-                <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                <div className="text-center">
-                  <span className="badge badge-pug">PUG</span>
-                  <span className="badge badge-sass">Sass</span>
-                  <span className="badge badge-bootstrap">Bootstrap</span>
-                  <span className="badge badge-gulp">Gulp</span>
-                </div>
-                <br/><br/>
-                <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div className="card-deck justify-content-center align-self-center">
-            <div className="card outside-card col-lg-2">
               <img className="card-img-top" src={sodakit} alt="sodakit"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Soda Kit</h5>
@@ -91,32 +106,14 @@ class Works extends Component {
                 <br/><br/>
                 <div className="card-links text-center">
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
-                </div>
-              </div>
-            </div>
-            <div className="card inside-card col-lg-3">
-              <img className="card-img-top" src={picturePerfect} alt="Card image cap"/>
-              <div className="card-body text-light">
-                <h5 className="card-title">Picture Perfect</h5>
-                <p className="card-text">Szablon na podstawie mojego boilerplateu sodakit.</p>
-                <div className="text-center">
-                  <span className="badge badge-pug">PUG</span>
-                  <span className="badge badge-sass">Sass</span>
-                  <span className="badge badge-bootstrap">Bootstrap</span>
-                  <span className="badge badge-gulp">Gulp</span>
-                </div>
-                <br/><br/>
-                <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/sodakit-front"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
             <div className="card outside-card col-lg-2">
               <img className="card-img-top" src={activeBox} alt="Card image cap"/>
               <div className="card-body text-light">
-                <h5 className="card-title">Card title</h5>
+                <h5 className="card-title">Active Box</h5>
                 <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                 <div className="text-center">
                   <span className="badge badge-pug">PUG</span>
@@ -127,7 +124,7 @@ class Works extends Component {
                 <br/><br/>
                 <div className="card-links text-center">
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/active-box-theme.git"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
