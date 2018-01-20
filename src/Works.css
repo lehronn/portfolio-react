@@ -18,21 +18,31 @@
 }
 
 .card {
-  background-color: #263238;
+  background-color: rgb(38,50,56);
   border: 0;
   border-radius: 0;
   padding: 0;
   position: relative;
   top: 0;
-  transition: 0.3s ease-in top;
+  opacity: 0.85;
+  transition: opacity 0.3s ease-in, top 0.3s ease-in;;
   -webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
   box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
 }
 
+.inside-card {
+  background-color: #212121;
+}
+
+.outside-card {
+  background-color: #263238;
+}
+
 .card:hover {
   position: relative;
   top: -10px;
+  opacity: 1;
 }
 
 .card img {

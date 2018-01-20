@@ -20,7 +20,7 @@ class Works extends Component {
       <div className="row works">
         <div className="works-container">
           <div className="card-deck justify-content-center align-self-center">
-            <div className="card col-lg-2">
+            <div className="card outside-card col-lg-2">
               <img className="card-img-top" src={lifePhoto} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
@@ -40,7 +40,7 @@ class Works extends Component {
                 </div>
               </div>
             </div>
-            <div className="card col-lg-3">
+            <div className="card inside-card col-lg-3">
               <img className="card-img-top" src={niceToMeetYou} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
@@ -60,7 +60,7 @@ class Works extends Component {
                 </div>
               </div>
             </div>
-            <div className="card col-lg-2">
+            <div className="card outside-card col-lg-2">
               <img className="card-img-top" src={yourLogo} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
@@ -83,7 +83,7 @@ class Works extends Component {
           </div>
 
           <div className="card-deck justify-content-center align-self-center">
-            <div className="card col-lg-2">
+            <div className="card outside-card col-lg-2">
               <img className="card-img-top" src={sodakit} alt="sodakit"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Soda Kit</h5>
@@ -103,7 +103,7 @@ class Works extends Component {
                 </div>
               </div>
             </div>
-            <div className="card col-lg-3">
+            <div className="card inside-card col-lg-3">
               <img className="card-img-top" src={picturePerfect} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Picture Perfect</h5>
@@ -123,7 +123,7 @@ class Works extends Component {
                 </div>
               </div>
             </div>
-            <div className="card col-lg-2">
+            <div className="card outside-card col-lg-2">
               <img className="card-img-top" src={activeBox} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Card title</h5>
