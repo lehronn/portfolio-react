@@ -4,10 +4,10 @@
 }
 
 .carousel-caption {
-  font-size: 1.2rem;
+  font-size: 1rem;
   width: 100%;
-  position: absolute;
   padding: 45px 30% 45px 30%;
+  position: absolute;
   left: 0px;
   bottom: 0px;
   background-color: #1A237E;
@@ -18,3 +18,44 @@
   width: 10px;
   height: 10px;
 }
+
+@media (min-width: 486px ) and (max-width: 770px) {
+  .carousel-item {
+    height: 300px;
+  }
+  .carousel-caption {
+    height: 100%;
+    padding: 45px 20% 45px 20%;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+  }
+}
+
+@media (min-width: 345px ) and (max-width: 485px) {
+  .carousel-item {
+    height: 330px;
+  }
+  .carousel-caption {
+    height: 100%;
+    position: absolute;
+    padding: 45px 10% 45px 10%;
+    left: 0px;
+    bottom: 0px;
+    background-color: #1A237E;
+  }
+}
+
+@media (min-width: 200px ) and (max-width: 345px) {
+    .carousel-item {
+      height: 335px;
+    }
+    .carousel-caption {
+      height: 100%;
+      position: absolute;
+      padding: 45px 10% 45px 10%;
+      left: 0px;
+      bottom: 0px;
+      background-color: #1A237E;
+    }
+  }

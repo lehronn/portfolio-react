@@ -16,19 +16,19 @@ class Slider extends Component {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img className="d-block w-100" src={img0} alt="First slide"/>
-            <div className="carousel-caption d-none d-md-block">
+            <div className="carousel-caption d-md-block">
               <p>Aktualnie uczę się JavaScriptu i Reactjs. Skupiam się na front-endzie i ćwiczę CSS by w następnej kolejności przejść do Node.js i MongoDB.</p>
             </div>
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src={img1} alt="Second slide"/>
-            <div className="carousel-caption d-none d-md-block">
+            <div className="carousel-caption d-md-block">
               <p>W mojej pracy i życiu prywatnym, wszędzie tam gdzie to możliwe używam otwartego oprogramowania takiego jak <strong>Fedora, Atom, Wordpress, Gimp, Inkscape czy Firefox</strong>. Jestem zdania, że otwarte źródła gwarantują bezpieczeństwo, poszanowanie prywatności, innowacyjność i najwyższą jakość.</p>
             </div>
           </div>
           <div className="carousel-item">
             <img className="d-block w-100" src={img2} alt="Third slide"/>
-            <div className="carousel-caption d-none d-md-block">
+            <div className="carousel-caption d-md-block">
               <p>Tych cech wymagam od oprogramowania którego używam, oraz projektów które sam tworzę. Dzięki OpenSources ja i moi klienci nie są narażeni na przywiązanie do jedynego, konkretnego dostawcy. Gdy Gimp i Inkscape nie wystarczają używam <strong>Affinity Photo i Affinity Designer</strong>.</p>
             </div>
           </div>
