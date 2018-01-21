@@ -1,5 +1,5 @@
 .works-container {
-  padding: 90px 0 90px 0;
+  padding: 70px 0 70px 0;
   background: url(./images/landscape-sky-night-stars-29435.jpg) no-repeat;
   background-color: #040b18;
 }
@@ -107,5 +107,15 @@
 
   .outside-card {
     top: 0;
+  }
+}
+
+@media (min-width: 576px ) and (max-width: 750px) {
+  .card {
+    margin: 10px 0 10px 0;
+  }
+
+  .card-deck .card {
+    flex: 0 0 100%;
   }
 }
