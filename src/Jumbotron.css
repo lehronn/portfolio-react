@@ -34,15 +34,6 @@ div .jumbotron {
   max-width: 350px;
 }
 
-@media (max-width: 768px) {
-  .summa-subtext {
-    font-size: 1rem;
-    position: absolute;
-    bottom: 100%;
-    left: 8%;
-  }
-}
-
 /* start of TYPEWRITER ANIMATION */
 .line-1{
   position: relative;
@@ -67,6 +58,21 @@ div .jumbotron {
   to{border-right-color: transparent;}
 }
 /* end of TYPEWRITER ANIMATION */
+@media (min-width: 1200px) {
+  .jumbotron-header {
+    position: relative;
+    top: 75%;
+  }
+}
+
+@media (max-width: 768px) {
+  .summa-subtext {
+    font-size: 1rem;
+    position: absolute;
+    bottom: 100%;
+    left: 8%;
+  }
+}
 
 @media (max-width: 530px) {
   .display-4 {
