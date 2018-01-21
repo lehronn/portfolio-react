@@ -1,7 +1,7 @@
 div .social {
-  background-color: #01579B;
+  background-color: #0288D1;
   padding: 25px 0 25px 0;
-  height: 150px;
+  height: 300px;
 }
 
 div .social-link {
@@ -30,11 +30,6 @@ div .social-link {
   text-align: center;
   margin: auto;
   opacity: 75%;
-}
-
-.social-link:hover .social-icon {
-  font-size: 3rem;
-  transition: font-size ease-out 0.2s;
 }
 
 .social-link:hover .social-desc {

@@ -7,7 +7,7 @@ div .jumbotron {
 
 .jumbotron-header {
   position: relative;
-  top: 80%;
+  top: 35%;
   text-shadow: 1px 1px #343a40;
 }
 .jumbotron-header > .fa {
@@ -31,6 +31,15 @@ div .jumbotron {
   left: 8%;
   font-size: 2rem;
   text-shadow: 3px 3px #343a40;
+}
+
+@media (max-width: 768px) {
+  .summa-subtext {
+    font-size: 1rem;
+    position: absolute;
+    bottom: 100%;
+    left: 8%;
+  }
 }
 
 /* start of TYPEWRITER ANIMATION */
@@ -57,3 +66,12 @@ div .jumbotron {
   to{border-right-color: transparent;}
 }
 /* end of TYPEWRITER ANIMATION */
+
+@media (max-width: 530px) {
+  .display-4 {
+    font-size: 2rem;
+  }
+  .lead {
+    font-size: 1rem;
+  }
+}
