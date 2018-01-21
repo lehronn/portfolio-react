@@ -7,7 +7,6 @@ import './images/landscape-sky-night-stars-29435.jpg';
 import './images/pexels-photo-176851.jpeg';
 
 import './App.css';
-import './mediaQueries.css';
 
 import Nav from './Nav.jsx';
 import Jumbotron from './Jumbotron.jsx';

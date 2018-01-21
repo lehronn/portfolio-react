@@ -20,7 +20,7 @@ class Works extends Component {
       <div className="row works">
         <div className="works-container">
           <div className="card-deck justify-content-center align-self-center">
-            <div className="card outside-card col-lg-3">
+            <div className="card outside-card col-xl-3 col-lg-3 col-md-10 col-sm-12 col-12">
               <img className="card-img-top" src={lifePhoto} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Biuro podróży</h5>
@@ -37,7 +37,7 @@ class Works extends Component {
                 </div>
               </div>
             </div>
-            <div className="card inside-card col-lg-4">
+            <div className="card inside-card col-xl-3 col-lg-3 col-md-10 col-sm-12 col-12">
               <img className="card-img-top" src={niceToMeetYou} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Giphy Search</h5>
@@ -53,7 +53,7 @@ class Works extends Component {
                 </div>
               </div>
             </div>
-            <div className="card outside-card col-lg-3">
+            <div className="card outside-card col-xl-3 col-lg-3 col-md-10 col-sm-12 col-12">
               <img className="card-img-top" src={yourLogo} alt="Card image cap"/>
               <div className="card-body text-light">
                 <h5 className="card-title">React Chat</h5>
