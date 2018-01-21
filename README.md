@@ -1,4 +1,4 @@
-# Shining Sky Theme
+# Blue Sky Theme
 
 Mateusz Stomski portfolio project powered by react.js, bootstrap 4, awesome icons, webpack and create-react-app.
 

@@ -14,7 +14,7 @@ import Hello from './Hello.jsx';
 import Social from './Social.jsx';
 import Works from './Works.jsx';
 import Skills from './Skills.jsx';
-import About from './About.jsx';
+// import About from './About.jsx';
 import Slider from './Slider.jsx';
 import Contact from './Contact.jsx';
 import Footer from './Footer.jsx';

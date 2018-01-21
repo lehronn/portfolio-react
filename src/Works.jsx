@@ -8,8 +8,6 @@ import './images/landscape-sky-night-stars-29435.jpg';
 import sodakit from './images/works/sodakit.png';
 import picturePerfect from './images/works/picturePerfect.jpg';
 import activeBox from './images/works/activeBox.jpg';
-import designCommunications from './images/works/designCommunications.jpg';
-import designLab from './images/works/designLab.jpg';
 import lifePhoto from './images/works/lifePhoto.jpg';
 import niceToMeetYou from './images/works/niceToMeetYou.jpg';
 import yourLogo from './images/works/yourLogo.jpg';
@@ -32,8 +30,8 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/20.3"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/20.3"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -48,8 +46,8 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/giphy-search"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/giphy-search"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -66,8 +64,8 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -87,8 +85,8 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -105,8 +103,8 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/sodakit-front"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/sodakit-front"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
@@ -123,8 +121,8 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i class="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/active-box-theme.git"><i class="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/active-box-theme.git"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
             </div>
