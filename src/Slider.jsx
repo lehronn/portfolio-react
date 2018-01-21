@@ -7,7 +7,7 @@ import img2 from './images/2.jpg';
 class Slider extends Component {
   render() {
     return (
-      <div id="carousel" className="carousel slide" data-ride="carousel" data-interval="10000">
+      <div id="carousel" className="carousel slide" data-ride="carousel" data-interval="false">
         <ol className="carousel-indicators">
           <li data-target="#carousel" data-slide-to="0" className="active"></li>
           <li data-target="#carousel" data-slide-to="1"></li>

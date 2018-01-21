@@ -2,7 +2,7 @@
   "name": "react-stomski",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://localhost/~lehronn/react-stomski/build/",
+  "homepage": "http://147.135.208.158/~lehronn/stomski.pl/",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.3",
     "jquery": "^3.2.1",
