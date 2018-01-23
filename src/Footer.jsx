@@ -14,7 +14,6 @@ class Footer extends Component {
             &nbsp;<i className="fa fa-heart" aria-hidden="true"></i>&nbsp;
             to open sources.
            </span>
-           <span><a className="text-light" href="https://github.com/lehronn/portfolio-react"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Fork it now.</a></span>
          </div>
       </div>
     );
