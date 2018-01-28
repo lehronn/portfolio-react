@@ -58,6 +58,7 @@ div .jumbotron {
   to{border-right-color: transparent;}
 }
 /* end of TYPEWRITER ANIMATION */
+
 @media (min-width: 1200px) {
   .jumbotron-header {
     position: relative;
@@ -70,6 +71,18 @@ div .jumbotron {
     font-size: 1rem;
     position: absolute;
     bottom: 100%;
+    left: 8%;
+  }
+}
+
+@media (min-height: 1280px) {
+  div .jumbotron {
+    max-height: 1280px;
+  }
+
+  .jumbotron-header {
+    position: relative;
+    bottom: 190%;
     left: 8%;
   }
 }

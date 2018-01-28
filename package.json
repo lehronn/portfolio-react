@@ -2,7 +2,7 @@
   "name": "react-stomski",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.stomski.pl/",
+  "homepage": "www.stomski.pl",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.3",
     "jquery": "^3.2.1",

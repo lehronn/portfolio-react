@@ -8,7 +8,7 @@ class Social extends Component {
             <div className="container">
               <div className="row">
                 <div className="social-link col-4 text-light">
-                  <a className="text-light social-icon" href="https://www.blog.stomski.pl"><i className="fa fa-book social-icon" aria-hidden="true"></i></a><br/>
+                  <a className="text-light social-icon" href="http://www.blog.stomski.pl"><i className="fa fa-book social-icon" aria-hidden="true"></i></a><br/>
                   DevBlog<br/>
                 </div>
                 <div className="social-link col-4 text-light">
