@@ -15,7 +15,7 @@ Mateusz Stomski portfolio project powered by react.js, bootstrap 4, awesome icon
 
 `npm start` to run development version on browser
 
-`npm build` to build distribution version
+`npm run build` to build distribution version
 
 ## Others informations
 

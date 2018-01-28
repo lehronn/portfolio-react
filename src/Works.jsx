@@ -31,7 +31,7 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="http://stomski.pl/projects/reactChat/public/index.html"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/18-Chat-Application"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
@@ -64,7 +64,7 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="http://stomski.pl/projects/greenPerfect/index.html"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
@@ -84,7 +84,7 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="http://stomski.pl/projects/githubSearch/index.html"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/15.9-GitHub-User-search"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
@@ -102,7 +102,7 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="http://stomski.pl/projects/sodakit/index.html"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/sodakit-front"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
@@ -118,7 +118,7 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/green-perfect"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="http://stomski.pl/projects/giphySearch/index.html"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/giphy-search"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>
