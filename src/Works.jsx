@@ -31,7 +31,7 @@ class Works extends Component {
                 </div>
                 <br/><br/>
                 <div className="card-links text-center">
-                  <a className="text-light btn btn-primary card-link" href="http://stomski.pl:3000"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
+                  <a className="text-light btn btn-primary card-link" href="http://www.chat.stomski.pl"><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;Zobacz</a>
                   <a className="text-light btn btn-primary card-link" href="https://github.com/lehronn/18-Chat-Application"><i className="fa fa-code-fork" aria-hidden="true"></i>&nbsp;Github</a>
                 </div>
               </div>

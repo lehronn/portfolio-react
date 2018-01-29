@@ -19,7 +19,7 @@ Mateusz Stomski portfolio project powered by react.js, bootstrap 4, awesome icon
 
 ## Others informations
 
-If You need edit main `index.html` file You find it in public catalog.
+If You need edit main `index.html` file You find it in `public` catalog.
 
 When You build distribution version Webpack uses variable `homepage` in `package.json.`
 
