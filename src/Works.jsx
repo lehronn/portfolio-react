@@ -40,7 +40,7 @@ class Works extends Component {
               <img className="card-img-top" src={bluesky} alt="Blue Sky"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Blue Sky Portfolio</h5>
-                <p className="card-text">To moje portfolio na którym właśnie się znajdujesz. Stworzone za pomocą React, Bootstrap4, zawiera scroll-spying i localscroll. W pełni responsywne.</p>
+                <p className="card-text">To moje portfolio na którym właśnie się znajdujesz. Stworzone za pomocą React, Bootstrap4, zawiera scroll-spying i localscroll. W pełni responsywne i wspiera technologię Progressive Web Apps, więc możesz jej używać na swoim telefonie i tablecie nawet bez dostępu do sieci, tak jak zwykłą aplikację.</p>
                 <div className="text-center">
                   <span className="badge badge-success">React.js + JSX</span>
                   <span className="badge badge-bootstrap">Bootstrap 4</span>

@@ -8,6 +8,7 @@ Mateusz Stomski portfolio project powered by react.js, bootstrap 4, awesome icon
 2. bootstrap 4 and awesome icons included
 3. scrollspying
 4. localscroll animation
+5. Progressive Web Apps
 
 ## Commands
 
