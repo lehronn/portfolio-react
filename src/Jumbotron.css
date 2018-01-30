@@ -1,43 +1,41 @@
 div .jumbotron {
   margin: 0;
+  min-height: 410px;
   height: 100vh;
   background: url(./images/pexels-photo-176851.jpeg);
   border-radius: 0;
 }
 
-.jumbotron-header {
+.lead {
   position: relative;
-  top: 35%;
-  text-shadow: 1px 1px #343a40;
+  top: 40px;
 }
-.jumbotron-header > .fa {
-  position: absolute;
-  right: -15%;
-  bottom: 25%;
-  font-size: 4rem;
+
+.jumbotron-header {
+  text-shadow: 1px 1px #343a40;
 }
 
 .summa {
-  position: absolute;
-  bottom: 105%;
-  left: -5%;
   font-size: 10rem;
   text-shadow: 1px 1px #343a40;
 }
 
 .summa-subtext {
-  position: absolute;
-  bottom: 145%;
-  left: 8%;
+  position: relative;
+  top: -160px;
+  left: 90px;
   font-size: 1.5rem;
   text-shadow: 2px 2px #343a40;
-  max-width: 350px;
 }
 
 /* start of TYPEWRITER ANIMATION */
+.name-writer {
+  position: relative;
+  top: 40px;
+}
+
 .line-1{
-    position: relative;
-    top: 50%;
+
     width: 7.8em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -63,31 +61,29 @@ div .jumbotron {
 }
 /* end of TYPEWRITER ANIMATION */
 
-@media (min-width: 1200px) {
-  .jumbotron-header {
-    position: relative;
-    top: 75%;
+@media (max-width: 380px) {
+  .summa-subtext {
+    font-size: 6rem;
+    display: block;
+    width: 100px;
+  }
+  .lead {
+    top: 0px;
+  }
+  .name-writer {
+    top: 0px;
   }
 }
 
 @media (max-width: 768px) {
   .summa-subtext {
     font-size: 1rem;
-    position: absolute;
-    bottom: 100%;
-    left: 8%;
   }
 }
 
 @media (min-height: 1280px) {
   div .jumbotron {
     max-height: 1280px;
-  }
-
-  .jumbotron-header {
-    position: relative;
-    bottom: 190%;
-    left: 8%;
   }
 }
 
@@ -96,6 +92,15 @@ div .jumbotron {
     font-size: 2rem;
   }
   .lead {
+    font-size: 1rem;
+  }
+}
+
+@media (max-height: 500px) {
+  .summa {
+    font-size: 6rem;
+  }
+  .summa-subtext {
     font-size: 1rem;
   }
 }

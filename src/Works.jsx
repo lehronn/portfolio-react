@@ -19,7 +19,7 @@ class Works extends Component {
         <div className="works-container">
           <div className="card-deck justify-content-center align-self-center">
             <div className="card outside-card col-xl-3 col-lg-3 col-md-10 col-sm-12 col-12">
-              <img className="card-img-top" src={reactChat} alt="Card image cap"/>
+              <img className="card-img-top" src={reactChat} alt="React Chat"/>
               <div className="card-body text-light">
                 <h5 className="card-title">React Chat</h5>
                 <p className="card-text">Aplikacja czatu internetowego napisana za pomocą Node.js, biblioteki Express i React w ramach kursu <strong>Kodilla WebDeveloper</strong>.</p>
@@ -37,7 +37,7 @@ class Works extends Component {
               </div>
             </div>
             <div className="card inside-card col-xl-4 col-lg-4 col-md-10 col-sm-12 col-12">
-              <img className="card-img-top" src={bluesky} alt="Card image cap"/>
+              <img className="card-img-top" src={bluesky} alt="Blue Sky"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Blue Sky Portfolio</h5>
                 <p className="card-text">To moje portfolio na którym właśnie się znajdujesz. Stworzone za pomocą React, Bootstrap4, zawiera scroll-spying i localscroll. W pełni responsywne.</p>
@@ -53,7 +53,7 @@ class Works extends Component {
               </div>
             </div>
             <div className="card outside-card col-xl-3 col-lg-3 col-md-10 col-sm-12 col-12">
-              <img className="card-img-top" src={picturePerfect} alt="Card image cap"/>
+              <img className="card-img-top" src={picturePerfect} alt="Green Perfect"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Green Perfect</h5>
                 <p className="card-text">Szablon responsywnej strony internetowej którą stworzyłem w trakcie ćwiczeń Kodilli o CSS i Gridzie. Szablon pociąłem na podstawie PDF który dostałem jako zadanie dodatkowe w trakcie kursu Kodilli. </p>
@@ -73,7 +73,7 @@ class Works extends Component {
 
           <div className="card-deck justify-content-center align-self-center">
             <div className="card outside-card col-xl-3 col-lg-3 col-md-10 col-sm-12 col-12">
-              <img className="card-img-top" src={githubSearch} alt="Card image cap"/>
+              <img className="card-img-top" src={githubSearch} alt="GitHub Search"/>
               <div className="card-body text-light">
                 <h5 className="card-title">GitHub Search</h5>
                 <p className="card-text">Wyszukiwarka użytkowników GitHub, którą napisałem w trakcie kursu Kodilli na podstawie API GitHuba.</p>
@@ -90,7 +90,7 @@ class Works extends Component {
               </div>
             </div>
             <div className="card inside-card col-xl-4 col-lg-4 col-md-10 col-sm-12 col-12">
-              <img className="card-img-top" src={sodakit} alt="sodakit"/>
+              <img className="card-img-top" src={sodakit} alt="Sodakit"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Soda Kit</h5>
                 <p className="card-text">Boilerplate który stworzyłem na swoje potrzeby, pozwala szybko zacząć pracę z PUG, Sassem, Gulpem i Bootstrapem. Optymalizacja obrazów, minimalizacja plików, mapy źródłowe, eslint, awesome icons - wszystko na pokładzie.</p>
@@ -108,7 +108,7 @@ class Works extends Component {
               </div>
             </div>
             <div className="card outside-card col-xl-3 col-lg-3 col-md-10 col-sm-12 col-12">
-              <img className="card-img-top" src={giphySearch} alt="Card image cap"/>
+              <img className="card-img-top" src={giphySearch} alt="Giphy Search"/>
               <div className="card-body text-light">
                 <h5 className="card-title">Giphy Search</h5>
                 <p className="card-text">Wyszukiwarka gifów napisana za pomocą React.JS i API GIPHY.com którą napisałem w ramach kursu <strong>Kodilla WebDeveloper</strong>.</p>
